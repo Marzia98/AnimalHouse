@@ -1,0 +1,312 @@
+[
+    {
+        "asin": "B01234ABCD",
+        "title": "Ibuprofen 200mg Tablets for Dogs",
+        "img": "https://example.com/ibuprofen_dogs.jpg",
+        "price": 12.99,
+        "category": "Pain Relief",
+        "text": "Analgesic and antipyretic medication commonly used to relieve pain, inflammation, and fever in dogs.",
+        "text_long": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to treat pain, inflammation, and fever in dogs. It works by inhibiting the production of certain chemicals in the body that cause inflammation and pain. It is commonly used to relieve arthritis pain, post-operative pain, and minor injuries in dogs. Ibuprofen should be administered to dogs only under the guidance of a veterinarian and should not be given to cats or other pets.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCE",
+        "title": "Flea and Tick Collar for Cats",
+        "img": "https://example.com/flea_tick_collar_cats.jpg",
+        "price": 19.99,
+        "category": "Parasite Control",
+        "text": "Effective collar for cats to prevent and eliminate flea and tick infestations.",
+        "text_long": "This flea and tick collar is specially designed for cats to effectively prevent and eliminate flea and tick infestations. It provides long-lasting protection for up to 8 months, making it convenient for cat owners. The collar is water-resistant and odorless, making it comfortable for cats to wear. It should be replaced every 8 months for continuous protection against fleas and ticks.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCF",
+        "title": "Dental Chews for Dogs",
+        "img": "https://example.com/dental_chews_dogs.jpg",
+        "price": 15.99,
+        "category": "Dental Care",
+        "text": "Chewable treats for dogs to promote dental health and fresh breath.",
+        "text_long": "These dental chews for dogs are specially formulated to promote dental health and fresh breath. The chewy texture helps to clean teeth and massage gums, reducing tartar and plaque buildup. They contain natural ingredients such as peppermint and parsley to freshen breath. Regular chewing of these dental chews can help prevent dental problems such as gum disease and tooth decay in dogs.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCG",
+        "title": "Joint Supplement for Cats",
+        "img": "https://example.com/joint_supplement_cats.jpg",
+        "price": 24.99,
+        "category": "Joint Health",
+        "text": "Supplement for cats to support joint health and mobility.",
+        "text_long": "This joint supplement for cats is specially formulated to support joint health and mobility. It contains glucosamine, chondroitin, and MSM, which are known to promote joint flexibility and reduce inflammation. The supplement also includes omega-3 fatty acids to support overall joint function and reduce stiffness in cats. It is ideal for senior cats or those with arthritis or joint problems.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCH",
+        "title": "Ear Cleaner Solution for Dogs",
+        "img": "https://example.com/ear_cleaner_dogs.jpg",
+        "price": 10.99,
+        "category": "Ear Care",
+        "text": "Gentle solution for dogs to clean and soothe ears.",
+        "text_long": "This ear cleaner solution for dogs is specially formulated to gently clean and soothe ears. It helps to remove dirt, wax, and debris from the ear canal, preventing infections and odors. The solution contains natural ingredients such as aloe vera and tea tree oil, which have soothing and antibacterial properties. It is suitable for regular use and helps to maintain healthy ears in dogs.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCI",
+        "title": "Digestive Enzymes for Small Animals",
+        "img": "https://example.com/digestive_enzymes_small_animals.jpg",
+        "price": 18.99,
+        "category": "Digestive Health",
+        "text": "Enzyme supplement for small animals to aid digestion.",
+        "text_long": "These digestive enzymes are specially formulated for small animals to aid digestion and nutrient absorption. They contain a blend of enzymes such as amylase, protease, and lipase, which help break down carbohydrates, proteins, and fats in the digestive tract. The supplement is beneficial for small animals with sensitive stomachs, digestive disorders, or difficulty digesting certain foods.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCJ",
+        "title": "Hairball Remedy Paste for Cats",
+        "img": "https://example.com/hairball_remedy_cats.jpg",
+        "price": 13.99,
+        "category": "Hairball Control",
+        "text": "Paste for cats to prevent and eliminate hairballs.",
+        "text_long": "This hairball remedy paste for cats is specially formulated to prevent and eliminate hairballs. It contains natural ingredients such as malt extract and vegetable oil, which help lubricate the digestive tract and facilitate the passage of hairballs. The paste has a palatable flavor that cats love, making it easy to administer. Regular use of this paste can help reduce hairball formation and prevent digestive issues in cats.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCK",
+        "title": "Antibacterial Wound Spray for Dogs",
+        "img": "https://example.com/antibacterial_wound_spray_dogs.jpg",
+        "price": 16.99,
+        "category": "Wound Care",
+        "text": "Spray for dogs to disinfect and promote healing of wounds.",
+        "text_long": "This antibacterial wound spray for dogs is specially formulated to disinfect and promote healing of wounds. It contains antiseptic ingredients such as chlorhexidine and benzalkonium chloride, which help kill bacteria and prevent infection. The spray also contains aloe vera and vitamin E to soothe and moisturize the skin, promoting faster healing. It is suitable for use on minor cuts, scrapes, and abrasions in dogs.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCL",
+        "title": "Calcium Supplement for Birds",
+        "img": "https://example.com/calcium_supplement_birds.jpg",
+        "price": 11.99,
+        "category": "Bone Health",
+        "text": "Supplement for birds to support bone health and eggshell formation.",
+        "text_long": "This calcium supplement for birds is specially formulated to support bone health and eggshell formation. It contains calcium carbonate, a readily absorbable form of calcium that is essential for birds' skeletal development and egg laying. The supplement also contains vitamin D3, which helps in the absorption of calcium and promotes healthy bones and feathers in birds. It is ideal for breeding birds or those with calcium deficiency.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCM",
+        "title": "Vitamin C Tablets for Guinea Pigs",
+        "img": "https://example.com/vitamin_c_tablets_guinea_pigs.jpg",
+        "price": 9.99,
+        "category": "Nutritional Supplements",
+        "text": "Chewable tablets for guinea pigs to support immune health.",
+        "text_long": "These vitamin C tablets for guinea pigs are specially formulated to support immune health and overall wellbeing. Guinea pigs, like humans, cannot produce their own vitamin C and must obtain it from their diet. These chewable tablets provide a convenient way to ensure that guinea pigs receive an adequate amount of vitamin C daily. They are flavored with natural fruit extracts and are suitable for all breeds of guinea pigs.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCN",
+        "title": "Eye Drops for Rabbits",
+        "img": "https://example.com/eye_drops_rabbits.jpg",
+        "price": 14.99,
+        "category": "Eye Care",
+        "text": "Gentle drops for rabbits to clean and soothe eyes.",
+        "text_long": "These eye drops for rabbits are specially formulated to clean and soothe eyes. They help remove dirt, dust, and debris from the eye area, reducing irritation and discomfort. The drops contain natural ingredients such as chamomile and saline solution, which have soothing and cleansing properties. They are safe for regular use and help maintain healthy eyes in rabbits.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCO",
+        "title": "Digestive Support Paste for Horses",
+        "img": "https://example.com/digestive_support_paste_horses.jpg",
+        "price": 29.99,
+        "category": "Digestive Health",
+        "text": "Paste for horses to support digestive function and gut health.",
+        "text_long": "This digestive support paste for horses is specially formulated to support digestive function and gut health. It contains probiotics, prebiotics, and digestive enzymes, which help maintain a healthy microbial balance in the gut and aid in nutrient absorption. The paste is ideal for horses experiencing digestive upset, colic, or changes in diet or environment. It can be administered orally or mixed with feed for easy consumption.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCP",
+        "title": "Skin and Coat Supplement for Dogs",
+        "img": "https://example.com/skin_coat_supplement_dogs.jpg",
+        "price": 22.99,
+        "category": "Skin and Coat Health",
+        "text": "Supplement for dogs to promote healthy skin and shiny coat.",
+        "text_long": "This skin and coat supplement for dogs is specially formulated to promote healthy skin and a shiny coat. It contains omega-3 and omega-6 fatty acids, biotin, and vitamins A, D, and E, which support skin hydration, reduce itching and inflammation, and promote coat luster and strength. The supplement is ideal for dogs with dry, itchy skin, dull coat, or seasonal shedding.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCQ",
+        "title": "Calming Treats for Cats",
+        "img": "https://example.com/calming_treats_cats.jpg",
+        "price": 17.99,
+        "category": "Behavioral Health",
+        "text": "Treats for cats to reduce anxiety and promote relaxation.",
+        "text_long": "These calming treats for cats are specially formulated to reduce anxiety and promote relaxation. They contain natural ingredients such as chamomile, valerian root, and L-tryptophan, which have calming and stress-relieving properties. The treats have a delicious flavor that cats love, making them ideal for stressful situations such as vet visits, travel, or fireworks. They are safe for daily use and help cats feel calm and comfortable.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCR",
+        "title": "Antifungal Shampoo for Dogs",
+        "img": "https://example.com/antifungal_shampoo_dogs.jpg",
+        "price": 20.99,
+        "category": "Skin Care",
+        "text": "Shampoo for dogs to treat fungal infections and relieve itching.",
+        "text_long": "This antifungal shampoo for dogs is specially formulated to treat fungal infections and relieve itching and inflammation of the skin. It contains ketoconazole, an antifungal medication, and soothing ingredients such as aloe vera and oatmeal, which help soothe irritated skin and reduce itching. The shampoo effectively kills fungi and yeast that cause skin infections in dogs, leaving the coat clean and healthy.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCS",
+        "title": "Worming Tablets for Small Animals",
+        "img": "https://example.com/worming_tablets_small_animals.jpg",
+        "price": 14.99,
+        "category": "Parasite Control",
+        "text": "Tablets for small animals to treat and prevent worm infestations.",
+        "text_long": "These worming tablets are specially formulated for small animals to treat and prevent worm infestations. They contain active ingredients such as praziquantel and pyrantel pamoate, which effectively kill and expel various types of worms, including roundworms, hookworms, and tapeworms. The tablets are easy to administer and can be crushed and mixed with food for animals that are difficult to medicate.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCT",
+        "title": "Antiseptic Spray for Birds",
+        "img": "https://example.com/antiseptic_spray_birds.jpg",
+        "price": 12.99,
+        "category": "First Aid",
+        "text": "Spray for birds to disinfect and protect minor wounds.",
+        "text_long": "This antiseptic spray for birds is specially formulated to disinfect and protect minor wounds, cuts, and abrasions. It contains chlorhexidine and benzalkonium chloride, which are effective antiseptic agents that kill bacteria and prevent infection. The spray also contains aloe vera and vitamin E to soothe and moisturize the skin, promoting faster healing. It is safe for use on all species of birds and can be applied directly to affected areas.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCU",
+        "title": "Probiotic Powder for Rabbits",
+        "img": "https://example.com/probiotic_powder_rabbits.jpg",
+        "price": 16.99,
+        "category": "Digestive Health",
+        "text": "Powder for rabbits to promote digestive balance and immune health.",
+        "text_long": "This probiotic powder for rabbits is specially formulated to promote digestive balance and immune health. It contains a blend of beneficial bacteria such as Lactobacillus acidophilus and Bifidobacterium animalis, which help maintain a healthy gut flora and support immune function. The powder is ideal for rabbits with digestive issues, diarrhea, or those undergoing antibiotic treatment. It can be sprinkled on food or mixed with water for easy administration.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCV",
+        "title": "Vitamin E Cream for Horses",
+        "img": "https://example.com/vitamin_e_cream_horses.jpg",
+        "price": 25.99,
+        "category": "Topical Care",
+        "text": "Cream for horses to soothe and protect skin.",
+        "text_long": "This vitamin E cream for horses is specially formulated to soothe and protect skin. It contains vitamin E, a powerful antioxidant that helps moisturize and repair damaged skin, promoting faster healing of wounds, cuts, and abrasions. The cream also forms a protective barrier over the skin, preventing further irritation and infection. It is suitable for use on all types of skin irritations and can be applied topically as needed.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCW",
+        "title": "Dental Water Additive for Dogs",
+        "img": "https://example.com/dental_water_additive_dogs.jpg",
+        "price": 13.99,
+        "category": "Dental Care",
+        "text": "Water additive for dogs to promote oral hygiene and fresh breath.",
+        "text_long": "This dental water additive for dogs is specially formulated to promote oral hygiene and fresh breath. It contains enzymes and antimicrobial agents that help prevent plaque and tartar buildup, reducing the risk of dental problems such as gum disease and tooth decay. The additive is easy to use - simply add it to your dog's water bowl daily for fresher breath and healthier teeth and gums.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCX",
+        "title": "Herbal Calming Drops for Small Animals",
+        "img": "https://example.com/herbal_calming_drops_small_animals.jpg",
+        "price": 18.99,
+        "category": "Behavioral Health",
+        "text": "Drops for small animals to reduce stress and anxiety naturally.",
+        "text_long": "These herbal calming drops are specially formulated for small animals to reduce stress and anxiety naturally. They contain a blend of herbs such as chamomile, lavender, and passionflower, which have calming and relaxing properties. The drops can be added to water or food or administered directly into the mouth. They are ideal for small animals experiencing fear, nervousness, or behavioral problems.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCY",
+        "title": "Anti-Itch Spray for Cats",
+        "img": "https://example.com/anti_itch_spray_cats.jpg",
+        "price": 14.99,
+        "category": "Skin Care",
+        "text": "Spray for cats to relieve itching and soothe irritated skin.",
+        "text_long": "This anti-itch spray for cats is specially formulated to relieve itching and soothe irritated skin. It contains ingredients such as oatmeal, aloe vera, and chamomile, which have anti-inflammatory and soothing properties. The spray provides immediate relief from itching caused by allergies, insect bites, or skin conditions. It is safe for cats of all ages and can be applied directly to affected areas as needed.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABCZ",
+        "title": "Joint Support Supplement for Dogs",
+        "img": "https://example.com/joint_support_supplement_dogs.jpg",
+        "price": 27.99,
+        "category": "Joint Health",
+        "text": "Supplement for dogs to support healthy joints and mobility.",
+        "text_long": "This joint support supplement for dogs is specially formulated to support healthy joints and mobility. It contains glucosamine, chondroitin, and MSM, which are known to promote joint flexibility and reduce inflammation. The supplement also includes omega-3 fatty acids and antioxidants to support overall joint function and reduce oxidative stress. It is ideal for senior dogs, large breeds, or those with arthritis or joint problems.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABDA",
+        "title": "Antibacterial Eye Drops for Birds",
+        "img": "https://example.com/antibacterial_eye_drops_birds.jpg",
+        "price": 15.99,
+        "category": "Eye Care",
+        "text": "Eye drops for birds to treat and prevent bacterial infections.",
+        "text_long": "These antibacterial eye drops for birds are specially formulated to treat and prevent bacterial infections of the eyes. They contain antibiotics such as neomycin and polymyxin B, which effectively kill bacteria and reduce inflammation. The drops are safe for use in all species of birds and can be applied directly to the eyes to provide relief from symptoms such as redness, discharge, and swelling.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABDB",
+        "title": "Hairball Control Treats for Cats",
+        "img": "https://example.com/hairball_control_treats_cats.jpg",
+        "price": 16.99,
+        "category": "Hairball Control",
+        "text": "Treats for cats to prevent and eliminate hairballs.",
+        "text_long": "These hairball control treats for cats are specially formulated to prevent and eliminate hairballs. They contain natural ingredients such as fiber, pumpkin, and omega-3 fatty acids, which help lubricate the digestive tract and facilitate the passage of hairballs. The treats have a delicious flavor that cats love, making them an easy and effective way to manage hairball problems. They are suitable for cats of all ages and breeds.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABDC",
+        "title": "Antifungal Cream for Small Animals",
+        "img": "https://example.com/antifungal_cream_small_animals.jpg",
+        "price": 17.99,
+        "category": "Skin Care",
+        "text": "Cream for small animals to treat fungal infections and skin irritations.",
+        "text_long": "This antifungal cream for small animals is specially formulated to treat fungal infections and skin irritations. It contains miconazole, an antifungal medication, and soothing ingredients such as aloe vera and vitamin E, which help relieve itching and inflammation. The cream effectively kills fungi and yeast that cause skin infections in small animals, promoting faster healing and recovery. It is suitable for use on rabbits, guinea pigs, and other small pets.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABDD",
+        "title": "Electrolyte Solution for Reptiles",
+        "img": "https://example.com/electrolyte_solution_reptiles.jpg",
+        "price": 14.99,
+        "category": "Reptile Health",
+        "text": "Oral solution for reptiles to replenish electrolytes and fluids.",
+        "text_long": "This electrolyte solution for reptiles is specially formulated to replenish electrolytes and fluids lost due to dehydration, illness, or stress. It contains a balanced blend of electrolytes such as sodium, potassium, and calcium, which are essential for maintaining hydration and proper bodily functions in reptiles. The solution is easy to administer orally and can be given directly or mixed with water for reptiles that are not drinking.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABDE",
+        "title": "Antibiotic Ointment for Ferrets",
+        "img": "https://example.com/antibiotic_ointment_ferrets.jpg",
+        "price": 18.99,
+        "category": "First Aid",
+        "text": "Ointment for ferrets to treat and prevent bacterial infections.",
+        "text_long": "This antibiotic ointment for ferrets is specially formulated to treat and prevent bacterial infections of the skin and wounds. It contains antibiotics such as bacitracin and polymyxin B, which effectively kill bacteria and promote healing. The ointment also contains soothing ingredients such as aloe vera and vitamin E, which help relieve itching and inflammation. It is ideal for use on minor cuts, scrapes, and abrasions in ferrets.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABDF",
+        "title": "Digestive Support Pellets for Birds",
+        "img": "https://example.com/digestive_support_pellets_birds.jpg",
+        "price": 19.99,
+        "category": "Digestive Health",
+        "text": "Pellets for birds to support digestive function and gut health.",
+        "text_long": "These digestive support pellets for birds are specially formulated to support digestive function and gut health. They contain probiotics, prebiotics, and digestive enzymes, which help maintain a healthy microbial balance in the gut and aid in nutrient absorption. The pellets are ideal for birds experiencing digestive upset, stress, or changes in diet or environment. They can be added to the bird's food daily for optimal digestive support.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABDG",
+        "title": "Vitamin D3 Supplement for Turtles",
+        "img": "https://example.com/vitamin_d3_supplement_turtles.jpg",
+        "price": 12.99,
+        "category": "Nutritional Supplements",
+        "text": "Liquid supplement for turtles to support calcium absorption and bone health.",
+        "text_long": "This vitamin D3 supplement for turtles is specially formulated to support calcium absorption and bone health. It provides a concentrated source of vitamin D3, which is essential for the proper metabolism and utilization of calcium in turtles. The supplement helps prevent calcium deficiencies and metabolic bone diseases such as shell deformities and softening. It can be added to the turtle's food or water for easy administration.",
+        "availability": "Yes"
+    },
+    {
+        "asin": "B01234ABDH",
+        "title": "Mite and Lice Spray for Small Animals",
+        "img": "https://example.com/mite_lice_spray_small_animals.jpg",
+        "price": 15.99,
+        "category": "Parasite Control",
+        "text": "Spray for small animals to eliminate mites and lice infestations.",
+        "text_long": "This mite and lice spray for small animals is specially formulated to eliminate mites and lice infestations. It contains insecticides such as pyrethrin and permethrin, which effectively kill mites, lice, and other ectoparasites on contact. The spray also contains soothing ingredients such as aloe vera and vitamin E, which help relieve itching and irritation caused by parasite bites. It is suitable for use on rabbits, guinea pigs, and other small pets.",
+        "availability": "Yes"
+    }
+]

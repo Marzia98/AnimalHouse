@@ -2,7 +2,7 @@ import { Alert } from 'react-bootstrap'
 
 const Welcome = () => (
   <Alert className="text-center">
-    <h1>Benvenuti in PHARMA!</h1>
+    <h2>Felice di vedervi ad ANIMAL HOUSE!</h2>
   </Alert>
 )
 

@@ -4,7 +4,7 @@
   }
   
   .book-wrapper.selected {
-    background-color: lightblue;
+    background-color: rgb(37, 54, 59);
   }
 
   .check-icon {

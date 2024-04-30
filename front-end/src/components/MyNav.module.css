@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  background-color: rgba(20, 42, 81, 0.689);
+  flex-direction: column;
+  padding: 0;
+  overflow-x: hidden;
+}
+

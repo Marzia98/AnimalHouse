@@ -2,7 +2,7 @@ import { Navbar, Nav, Container, Form } from 'react-bootstrap'
 import { Link } from 'react-router-dom'
 import { FaUser } from 'react-icons/fa'; // Importa l'icona utente da react-icons/fa
 import { FaShoppingCart } from 'react-icons/fa'; // Importa l'icona del carrello da react-icons/fa
-import { style } from  './MyNav.modul.css'
+import  style  from './MyNav.module.css'
 
 
 const MyNav = ({ searchQuery, setSearchQuery }) => {
@@ -15,7 +15,7 @@ const MyNav = ({ searchQuery, setSearchQuery }) => {
     >
       <Container fluid>
         <Link to="/">
-          <Navbar.Brand>PHARMA</Navbar.Brand>
+          <Navbar.Brand>ANIMAL.PHARMA</Navbar.Brand>
         </Link>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

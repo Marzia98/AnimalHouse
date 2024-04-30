@@ -35,7 +35,7 @@ function ContactList() {
         </Row>
       </main>
       <footer>
-        <p> - Developed by PHARMA</p>
+        <p> - Developed by ANIMAL.PHARMA</p>
       </footer>
     </Container>
   );

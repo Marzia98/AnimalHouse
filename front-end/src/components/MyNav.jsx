@@ -2,6 +2,8 @@ import { Navbar, Nav, Container, Form } from 'react-bootstrap'
 import { Link } from 'react-router-dom'
 import { FaUser } from 'react-icons/fa'; // Importa l'icona utente da react-icons/fa
 import { FaShoppingCart } from 'react-icons/fa'; // Importa l'icona del carrello da react-icons/fa
+import { style } from  './MyNav.modul.css'
+
 
 const MyNav = ({ searchQuery, setSearchQuery }) => {
   return (

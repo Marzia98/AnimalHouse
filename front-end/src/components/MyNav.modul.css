@@ -1,0 +1,19 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #8b1a1a;
+    color: #cda2a2;
+    padding: 10px 0;
+    transition: top 0.3s ease-in-out;
+  }
+  
+  .navbar.scrolled {
+    top: -50px; /* Altezza della navbar */
+  }
+  
+  .content {
+    height: 2000px; /* Solo per il test dello scrolling */
+  }
+  

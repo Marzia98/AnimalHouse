@@ -12,7 +12,7 @@
     {
         "asin": "B01234ABCE",
         "title": "Flea and Tick Collar for Cats",
-        "img": "https://example.com/flea_tick_collar_cats.jpg",
+        "img": "https://www.hartz.com/wp-content/uploads/2022/04/3270080483-Hartz-UltraGuard-Flea-Tick-Collar-for-Cats-and-Kitten-White-front.jpg",
         "price": 19.99,
         "category": "Parasite Control",
         "text": "Effective collar for cats to prevent and eliminate flea and tick infestations.",
@@ -22,7 +22,7 @@
     {
         "asin": "B01234ABCF",
         "title": "Dental Chews for Dogs",
-        "img": "https://example.com/dental_chews_dogs.jpg",
+        "img": "https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&itemId=971832-847&recipeName=680",
         "price": 15.99,
         "category": "Dental Care",
         "text": "Chewable treats for dogs to promote dental health and fresh breath.",
@@ -32,7 +32,7 @@
     {
         "asin": "B01234ABCG",
         "title": "Joint Supplement for Cats",
-        "img": "https://example.com/joint_supplement_cats.jpg",
+        "img": "https://pdsapetstore.org.uk/cdn/shop/products/30439659.png?v=1616168728",
         "price": 24.99,
         "category": "Joint Health",
         "text": "Supplement for cats to support joint health and mobility.",
@@ -42,7 +42,7 @@
     {
         "asin": "B01234ABCH",
         "title": "Ear Cleaner Solution for Dogs",
-        "img": "https://example.com/ear_cleaner_dogs.jpg",
+        "img": "https://renasan.co.uk/cdn/shop/products/RenaSan250mlEarCleanerproductimage_grande.png?v=1665154792",
         "price": 10.99,
         "category": "Ear Care",
         "text": "Gentle solution for dogs to clean and soothe ears.",
@@ -52,7 +52,7 @@
     {
         "asin": "B01234ABCI",
         "title": "Digestive Enzymes for Small Animals",
-        "img": "https://example.com/digestive_enzymes_small_animals.jpg",
+        "img": "https://www.petsupermarket.com/dw/image/v2/BGTK_PRD/on/demandware.static/-/Sites-petsupermarket-m-catalog/default/dwdf92efa6/images/original/SCM02280.2.jpg?sw=800&sh=800",
         "price": 18.99,
         "category": "Digestive Health",
         "text": "Enzyme supplement for small animals to aid digestion.",
@@ -62,7 +62,7 @@
     {
         "asin": "B01234ABCJ",
         "title": "Hairball Remedy Paste for Cats",
-        "img": "https://example.com/hairball_remedy_cats.jpg",
+        "img": "https://cdn.webshopapp.com/shops/250002/files/176425232/1652x1652x2/johnsons-veterinary-cat-hairball-remedy-paste-50g.jpg",
         "price": 13.99,
         "category": "Hairball Control",
         "text": "Paste for cats to prevent and eliminate hairballs.",
@@ -72,7 +72,7 @@
     {
         "asin": "B01234ABCK",
         "title": "Antibacterial Wound Spray for Dogs",
-        "img": "https://example.com/antibacterial_wound_spray_dogs.jpg",
+        "img": "https://nutri-vet.com/sites/default/files/2022-09/Anti-Microbial%20Wound%20Care%20Spray%201.png",
         "price": 16.99,
         "category": "Wound Care",
         "text": "Spray for dogs to disinfect and promote healing of wounds.",
@@ -82,7 +82,7 @@
     {
         "asin": "B01234ABCL",
         "title": "Calcium Supplement for Birds",
-        "img": "https://example.com/calcium_supplement_birds.jpg",
+        "img": "https://cdn.shopify.com/s/files/1/0069/8105/8596/products/949690_1600x.jpg?v=1568682137",
         "price": 11.99,
         "category": "Bone Health",
         "text": "Supplement for birds to support bone health and eggshell formation.",
@@ -92,7 +92,7 @@
     {
         "asin": "B01234ABCM",
         "title": "Vitamin C Tablets for Guinea Pigs",
-        "img": "https://example.com/vitamin_c_tablets_guinea_pigs.jpg",
+        "img": "https://eadn-wc03-172422.nxedge.io/cdn/pub/media/catalog/product/cache/09c6670d03b85c37f5cf2085f63277b7/n/a/natural_science_vitamin_c_tabs.jpg",
         "price": 9.99,
         "category": "Nutritional Supplements",
         "text": "Chewable tablets for guinea pigs to support immune health.",
@@ -102,7 +102,7 @@
     {
         "asin": "B01234ABCN",
         "title": "Eye Drops for Rabbits",
-        "img": "https://example.com/eye_drops_rabbits.jpg",
+        "img": "https://img.lazcdn.com/g/p/5ff8faa49bdd13136327ad33bf691029.png_960x960q80.png_.webp",
         "price": 14.99,
         "category": "Eye Care",
         "text": "Gentle drops for rabbits to clean and soothe eyes.",
@@ -112,7 +112,7 @@
     {
         "asin": "B01234ABCO",
         "title": "Digestive Support Paste for Horses",
-        "img": "https://example.com/digestive_support_paste_horses.jpg",
+        "img": "https://www.horsevet.ie/wp-content/uploads/2021/03/Succeed_granulat.jpg",
         "price": 29.99,
         "category": "Digestive Health",
         "text": "Paste for horses to support digestive function and gut health.",
@@ -122,7 +122,7 @@
     {
         "asin": "B01234ABCP",
         "title": "Skin and Coat Supplement for Dogs",
-        "img": "https://example.com/skin_coat_supplement_dogs.jpg",
+        "img": "https://deleynaturals.com/cdn/shop/files/01-BGDEL01-SKIN-COAT-CHEWS_250x250_2x_8b438109-80c8-42df-b390-7c6867f363da.png?v=1709719142&width=2048",
         "price": 22.99,
         "category": "Skin and Coat Health",
         "text": "Supplement for dogs to promote healthy skin and shiny coat.",
@@ -132,7 +132,7 @@
     {
         "asin": "B01234ABCQ",
         "title": "Calming Treats for Cats",
-        "img": "https://example.com/calming_treats_cats.jpg",
+        "img": "https://www.healthfulpets.co.uk/media/amasty/amoptmobile/catalog/product/cache/f98e4e87a2c097d8c77829790435d60a/c/a/calmingcattreats_002__jpg.webp",
         "price": 17.99,
         "category": "Behavioral Health",
         "text": "Treats for cats to reduce anxiety and promote relaxation.",
@@ -142,7 +142,7 @@
     {
         "asin": "B01234ABCR",
         "title": "Antifungal Shampoo for Dogs",
-        "img": "https://example.com/antifungal_shampoo_dogs.jpg",
+        "img": "https://smilingpawspets.com/cdn/shop/products/SPPhero.jpg?v=1589941797",
         "price": 20.99,
         "category": "Skin Care",
         "text": "Shampoo for dogs to treat fungal infections and relieve itching.",
@@ -152,7 +152,7 @@
     {
         "asin": "B01234ABCS",
         "title": "Worming Tablets for Small Animals",
-        "img": "https://example.com/worming_tablets_small_animals.jpg",
+        "img": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2937771.jpg&w=640&q=90",
         "price": 14.99,
         "category": "Parasite Control",
         "text": "Tablets for small animals to treat and prevent worm infestations.",
@@ -162,7 +162,7 @@
     {
         "asin": "B01234ABCT",
         "title": "Antiseptic Spray for Birds",
-        "img": "https://example.com/antiseptic_spray_birds.jpg",
+        "img": "https://www.vetnpetdirect.com.au/cdn/shop/products/Vetafarm-Avicare-Disinfectant-Ready-to-use-500mL-web.jpg?v=1624144314",
         "price": 12.99,
         "category": "First Aid",
         "text": "Spray for birds to disinfect and protect minor wounds.",
@@ -172,7 +172,7 @@
     {
         "asin": "B01234ABCU",
         "title": "Probiotic Powder for Rabbits",
-        "img": "https://example.com/probiotic_powder_rabbits.jpg",
+        "img": "https://image.makewebeasy.net/makeweb/m_1920x0/3U9J7OLdR/DefaultData/Untitled_1_01.png",
         "price": 16.99,
         "category": "Digestive Health",
         "text": "Powder for rabbits to promote digestive balance and immune health.",
@@ -182,7 +182,7 @@
     {
         "asin": "B01234ABCV",
         "title": "Vitamin E Cream for Horses",
-        "img": "https://example.com/vitamin_e_cream_horses.jpg",
+        "img": "https://vetpro.co.nz/wp-content/uploads/2020/03/VitaminE_Oct21.jpg",
         "price": 25.99,
         "category": "Topical Care",
         "text": "Cream for horses to soothe and protect skin.",
@@ -192,7 +192,7 @@
     {
         "asin": "B01234ABCW",
         "title": "Dental Water Additive for Dogs",
-        "img": "https://example.com/dental_water_additive_dogs.jpg",
+        "img": "https://headsupfortails.com/cdn/shop/files/DENTALHEALTHSOLUTIONPLUSHIP_JOINTFORDOGS_1.jpg?v=1692253643&width=1946",
         "price": 13.99,
         "category": "Dental Care",
         "text": "Water additive for dogs to promote oral hygiene and fresh breath.",
@@ -202,7 +202,7 @@
     {
         "asin": "B01234ABCX",
         "title": "Herbal Calming Drops for Small Animals",
-        "img": "https://example.com/herbal_calming_drops_small_animals.jpg",
+        "img": "https://naturvet.com/cdn/shop/files/hemp_quiet-moments_1oz_Drops_tincture_bottle_mockup_v2_web-1000x1000.jpg?crop=center&height=550&v=1696882111&width=550",
         "price": 18.99,
         "category": "Behavioral Health",
         "text": "Drops for small animals to reduce stress and anxiety naturally.",
@@ -212,7 +212,7 @@
     {
         "asin": "B01234ABCY",
         "title": "Anti-Itch Spray for Cats",
-        "img": "https://example.com/anti_itch_spray_cats.jpg",
+        "img": "https://nutri-vet.com/sites/default/files/2019-03/Anti-Itch-Spray_Cats_front.jpg",
         "price": 14.99,
         "category": "Skin Care",
         "text": "Spray for cats to relieve itching and soothe irritated skin.",
@@ -222,7 +222,7 @@
     {
         "asin": "B01234ABCZ",
         "title": "Joint Support Supplement for Dogs",
-        "img": "https://example.com/joint_support_supplement_dogs.jpg",
+        "img": "https://vetwellscientific.co.uk/cdn/shop/products/Y_A_120_Tablets_1080x1080_6330a6b6-37f0-4d20-9b42-a8b549798a4d_1445x.jpg?v=1645698439",
         "price": 27.99,
         "category": "Joint Health",
         "text": "Supplement for dogs to support healthy joints and mobility.",
@@ -232,7 +232,7 @@
     {
         "asin": "B01234ABDA",
         "title": "Antibacterial Eye Drops for Birds",
-        "img": "https://example.com/antibacterial_eye_drops_birds.jpg",
+        "img": "https://static-01.daraz.pk/p/eb14aeb27d1120a97c732b0b414efab5.jpg",
         "price": 15.99,
         "category": "Eye Care",
         "text": "Eye drops for birds to treat and prevent bacterial infections.",
@@ -242,7 +242,7 @@
     {
         "asin": "B01234ABDB",
         "title": "Hairball Control Treats for Cats",
-        "img": "https://example.com/hairball_control_treats_cats.jpg",
+        "img": "https://dogmycats.com/pub/media/catalog/product/cache/97592dadc4beaac8b365aba8b91a0c5b/v/v/vvaan_cat_treat_hairball_control_50g_f393.png",
         "price": 16.99,
         "category": "Hairball Control",
         "text": "Treats for cats to prevent and eliminate hairballs.",
@@ -252,7 +252,7 @@
     {
         "asin": "B01234ABDC",
         "title": "Antifungal Cream for Small Animals",
-        "img": "https://example.com/antifungal_cream_small_animals.jpg",
+        "img": "https://furballstory.com/cdn/shop/files/1_19.jpg?v=1707196212",
         "price": 17.99,
         "category": "Skin Care",
         "text": "Cream for small animals to treat fungal infections and skin irritations.",
@@ -262,7 +262,7 @@
     {
         "asin": "B01234ABDD",
         "title": "Electrolyte Solution for Reptiles",
-        "img": "https://example.com/electrolyte_solution_reptiles.jpg",
+        "img": "https://www.junglebobsreptileworld.com/cdn/shop/files/IMG_0127_1024x1024.jpg?v=1700073721",
         "price": 14.99,
         "category": "Reptile Health",
         "text": "Oral solution for reptiles to replenish electrolytes and fluids.",
@@ -272,7 +272,7 @@
     {
         "asin": "B01234ABDE",
         "title": "Antibiotic Ointment for Ferrets",
-        "img": "https://example.com/antibiotic_ointment_ferrets.jpg",
+        "img": "https://www.mcguff.com/content/images/thumbs/0014007_triple-antibiotic-ointment-05-ounce-tube.jpeg",
         "price": 18.99,
         "category": "First Aid",
         "text": "Ointment for ferrets to treat and prevent bacterial infections.",
@@ -282,7 +282,7 @@
     {
         "asin": "B01234ABDF",
         "title": "Digestive Support Pellets for Birds",
-        "img": "https://example.com/digestive_support_pellets_birds.jpg",
+        "img": "https://www.petsstation.com.sg/cdn/shop/products/brown-s-encore-natural-avian-grit-digestive-supplement-567g_grande.jpg?v=1629726489",
         "price": 19.99,
         "category": "Digestive Health",
         "text": "Pellets for birds to support digestive function and gut health.",
@@ -292,7 +292,7 @@
     {
         "asin": "B01234ABDG",
         "title": "Vitamin D3 Supplement for Turtles",
-        "img": "https://example.com/vitamin_d3_supplement_turtles.jpg",
+        "img": "https://m.media-amazon.com/images/I/31JtQhZryQL.jpg",
         "price": 12.99,
         "category": "Nutritional Supplements",
         "text": "Liquid supplement for turtles to support calcium absorption and bone health.",
@@ -302,7 +302,7 @@
     {
         "asin": "B01234ABDH",
         "title": "Mite and Lice Spray for Small Animals",
-        "img": "https://example.com/mite_lice_spray_small_animals.jpg",
+        "img": "https://www.uncletomspps.com.au/cdn/shop/products/737399294948_1_480x480.jpg?v=1597827181",
         "price": 15.99,
         "category": "Parasite Control",
         "text": "Spray for small animals to eliminate mites and lice infestations.",
